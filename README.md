@@ -1,6 +1,5 @@
 # lumen
-Implementación de lumen
-comando: 
+Implementación de lumen, escribir comando: 
 		composer create-project --prefer-dist laravel/lumen proyectoLumen
 	
 modificar el archivo .env

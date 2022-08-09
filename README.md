@@ -35,3 +35,6 @@ sql para insertar un cliente
 			(`id`, `cli_nombre`, `cli_apellido`, `cli_telefono`) 
 		VALUES 
 			('1','juan','royal','123456')
+
+En la rama master tiene mi codigo para guiarte.
+Saludos.
